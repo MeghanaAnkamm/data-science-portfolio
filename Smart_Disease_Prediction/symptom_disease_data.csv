@@ -1,0 +1,9 @@
+fever,cough,fatigue,headache,body_pain,disease
+1,1,1,1,1,Flu
+1,1,0,0,1,Cold
+1,0,1,1,0,Viral Fever
+0,1,1,1,1,Allergy
+1,0,0,1,0,Migraine
+0,0,0,1,1,Stress
+1,1,1,0,1,Flu
+0,1,0,0,0,Cold
