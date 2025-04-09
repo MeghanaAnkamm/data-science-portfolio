@@ -27,10 +27,12 @@ Welcome to my data science portfolio! This repository showcases end-to-end real-
 Each project folder includes:
 - Python scripts (`.py`)
 - Sample datasets (`.csv`)
-- Visualizations (e.g., `.png`)
 - README file with instructions
 
 ---
+
+## 🔗 Connect With Me
+- 📧 Email: meghanaankam26@gmail.com
 
 ## 💼 About Me
 I'm Meghana Ankam, passionate about solving real-world problems with data. Currently seeking a data analyst/ML role where I can contribute insights that drive decisions.
